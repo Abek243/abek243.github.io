@@ -25,7 +25,9 @@
 	background: rgb(0,200,255);
 	}
 
-
+#N {
+	font-family: Comic Sans MS;
+}
 .stuff {
 padding: 2%;
 background-color: white;
@@ -33,6 +35,6 @@ border-style: dashed;
 border-color: purple;
 }
 
-#testbar {
+#player {
 border-style: solid
 }
